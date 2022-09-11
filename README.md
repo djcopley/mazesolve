@@ -10,17 +10,22 @@ user.
 ### Installation and Usage
 
 1. Install `mazesolve` using pip
+
     ```bash
     pip install git+https://github.com/djcopley/mazesolve.git@main
     ```
 2. Run `mazesolve`
+
     ```bash
     mazesolve
     ```
 3. Follow the program prompts
+
     ![](assets/image2.png)
     ![](assets/image4.png)
+
 4. Visualize the results
+
    ![](assets/image1.png)
 
 ### Caveats
